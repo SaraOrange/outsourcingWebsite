@@ -368,6 +368,10 @@ body {
 .main-wrapper .inner-pages .about-page .is-right h1 {
   color: #9c27b0;
 }
+.main-wrapper .inner-pages .services-page .banner {
+  background-image: url(../images/services-banner.jpg);
+  background-position: center -100px;
+}
 .main-wrapper .inner-pages .contact-page .banner {
   background-image: url(../images/contact-banner.jpg);
 }

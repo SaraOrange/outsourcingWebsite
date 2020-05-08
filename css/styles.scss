@@ -379,6 +379,12 @@
                        }
                    }
                }
+               .services-page {
+                   .banner {
+                       background-image: url(../images/services-banner.jpg);
+                       background-position: center -100px;
+                   }
+               }
                .contact-page {
                    .banner {
                        background-image: url(../images/contact-banner.jpg);
