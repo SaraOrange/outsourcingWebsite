@@ -432,4 +432,83 @@ body {
   outline: none;
 }
 
-/*# sourceMappingURL=styles.css.map */
+.top_block{
+  margin-left: 24.5px;
+  margin-right: 24.5px;
+}
+
+.header_font{
+  color: #9c27b0;
+  font-family:"Noteworthy Light" ;
+}
+.job6_img{
+  flex-basis:100% ;
+}
+.job4_img{
+  flex-basis:100% ;
+}
+.job1_img{
+  flex-basis:100% ;
+}
+.three_rows{
+  display: flex;
+  margin-left: 24.5px;
+  margin-right: 24.5px;
+  flex-direction: column;
+  width: 100%;
+  justify-content: space-between;
+}
+
+.main_container_row{
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  justify-content: space-between;
+}
+
+.sec_column{
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 164.5px;
+  font-family: Arial;
+  text-align: left;
+  color: #351c43;
+  margin-left: 50px;
+  margin-right: 50px;
+
+}
+
+.middle_title{
+  display:flex;
+  justify-content:center;
+  color: purple;
+}
+
+.middle_block{
+  display:flex;
+  width:1250px;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+.p_margin_left{
+  margin-left: 50px;
+  margin-right: 50px;
+
+}
+.left_middle_block{
+  flex-direction:column;
+  text-align: center;
+  background-color:#351c43;
+  width:75%;
+  color: #fff;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.right_middle_block{
+  flex-direction:column;
+  text-align:center;
+  width:25%;
+}
